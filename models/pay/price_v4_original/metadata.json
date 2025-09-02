@@ -1,0 +1,10 @@
+{
+  "k": 8,
+  "mae": 1.6277801962415794,
+  "rmse": 3.1612814757595413,
+  "blend_w": {
+    "lgbm": 0.75,
+    "xgb": 0.25
+  },
+  "model_type": "blend_log_space_models_price_space_blend"
+}
